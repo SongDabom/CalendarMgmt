@@ -1,0 +1,2 @@
+저장유형 최종문서번호 최종문서생성인 저장위치 사용자ID 비밀번호 "DB ID" "Char Set" 생성일자
+0 100000001  "저장위치>> C:/Users/dabom/PycharmProjects/CalendarMgt/tables"     "2022-02-07 21:39:11"
